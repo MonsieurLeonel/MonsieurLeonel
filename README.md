@@ -1,7 +1,4 @@
-- 👋 Bonjour, Je suis @MonsieurLeonel, Je suis un jeune développeur à en devenir!
-- 👀 J'adore le code et surtout les nouvelles technologies.
-- 🌱 Actuellement, je fais du full stack web avec Laravel / Tailwindcss.
-- 💞️ Je fais pour l'instant mon petit bonhomme de chemin!
+Hello, Je suis développeur junior actuellement en PHP / Laravel et puis c'est tout mdr
 - 📫 Pour me contacter : leonel.borgespereira.pro@gmail.com
 
 <!---
